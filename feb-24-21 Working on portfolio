@@ -1,0 +1,7 @@
+Today I'm establishing work on the following features list to-do for my website and server
+  -attractive ui for browsing my blog
+  -entries for said blog covering my personality, cooking, and code
+  -better frontend admin ui for login, post creation update and deletion
+  -comments on posts behind a captcha or auth system (not mvp at all, just interested in it)
+  -change how frontend fetches data to minimize calls to the db and speed up load times. 
+  
